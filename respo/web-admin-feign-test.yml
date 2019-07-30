@@ -14,7 +14,7 @@ server:
 feign:
   hystrix:
     enabled: true
-
+#这是测试环境
 eureka:
   client:
     serviceUrl:
